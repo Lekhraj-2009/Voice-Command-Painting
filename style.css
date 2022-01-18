@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+}
+.header{
+	font-family: 'Carter One', cursive;
+}
+hr{
+	border-color: black;
+	width: 85%;
+}
+p{
+	font-size: 16px;
+	color: red;
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+button{
+    width: 150px;
+	font-size: 16px;
+}
+canvas{
+	background: pink;
+	border-radius: 20px;
+}
